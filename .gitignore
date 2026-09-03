@@ -1,0 +1,7 @@
+# Maven
+target/
+*.jar
+
+# VS Code / OS
+.vscode/
+.DS_Store
